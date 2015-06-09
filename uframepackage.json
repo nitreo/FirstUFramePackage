@@ -1,0 +1,11 @@
+{
+
+  "title" : "First Koinonia Package",
+  "description" : "This is a very first package ever introduced to koinonia",
+  "environments" : [],
+  "dependencies" : [],
+  "author" : "sini",
+  "collaborators" : [],
+  "payment_options" : []
+
+}
